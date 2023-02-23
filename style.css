@@ -1,0 +1,20 @@
+.orange {
+  color: orange;
+}
+
+.width-auto {
+  width: auto;
+}
+
+.hero-img {
+  max-height: 60vh;
+}
+
+.mission {
+  flex-direction: column;
+}
+
+.bg-impact-primary {
+  background-color: rgb(2, 121, 87);
+  color: white;
+}
