@@ -7,14 +7,37 @@
 }
 
 .hero-img {
-  max-height: 60vh;
+  max-height: 50vh;
 }
 
 .mission {
   flex-direction: column;
 }
 
+.start-btn {
+  background-color: white;
+  width: 15vh;
+}
+
+.r-card {
+  height: 18vh;
+  width: 25vh;
+  background-color: rgb(2, 121, 87);
+}
+
+.card-position {
+  top: -84px;
+}
+
 .bg-impact-primary {
   background-color: rgb(2, 121, 87);
   color: white;
+}
+
+.pb-6 {
+  padding-bottom: 4em;
+}
+
+.mb-6 {
+  margin-bottom: 12em;
 }
