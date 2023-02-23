@@ -7,7 +7,7 @@
 }
 
 .hero-img {
-  max-height: 50vh;
+  max-height: 45vh;
 }
 
 .mission {
@@ -31,7 +31,7 @@
 
 .bg-impact-primary {
   background-color: rgb(5, 100, 80);
-  color: rgb(185, 185, 185);
+  color: rgb(110, 254, 175);
 }
 
 .pb-6 {
@@ -40,4 +40,10 @@
 
 .mb-6 {
   margin-bottom: 12em;
+}
+
+@media (max-width:768px) {
+  /* .hero-img {
+    max-height: 20vh;
+  } */
 }
